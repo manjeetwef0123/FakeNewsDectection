@@ -1,0 +1,11 @@
+numpy
+pandas
+joblib
+flask
+scikit-learn
+re #regex
+requests
+bs4
+
+
+
